@@ -899,3 +899,6 @@ body {
     grid-template-columns: 1fr;
   }
 }
+{plugins:
+        - faiztransportsolo-eng-sitemap
+}
